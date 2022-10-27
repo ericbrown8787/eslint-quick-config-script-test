@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/ericbrown8787/eslint-quick-config-script-test/issues"
   },
-  "homepage": "https://github.com/ericbrown8787/eslint-quick-config-script-test#readme"
+  "homepage": "https://github.com/ericbrown8787/eslint-quick-config-script-test#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
